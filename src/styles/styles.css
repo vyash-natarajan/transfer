@@ -36,7 +36,7 @@ h2 {
   border: none;
   border-radius: 5px;
   font-size: 16px;
-  cursor: pointer; /* Ensures the button stays on top */
+  cursor: pointer;
 }
 
 .logout-button:hover {
